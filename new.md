@@ -3,9 +3,7 @@ To demonstrate that the extent of repeated independent testing by different team
 
 The PPV formula given is:
 
-\[
 PPV = \frac{P(\text{relation exists, at least one of the n repetitions finds significant})}{P(\text{at least one of the n repetitions finds significant})}
-\]
 
 Expanding this, we can write it in terms of \( \alpha \) and \( \beta \), and \( R \):
 
