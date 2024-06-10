@@ -1,0 +1,502 @@
+[
+    {
+        "name": "California",
+        "abbreviation": "CA",
+        "capitalCity": "Sacramento",
+        "largestCity": "Los Angeles",
+        "population": 39538223,
+        "area": 163696.32,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Great_Seal_of_the_State_of_California.svg"
+    },
+    {
+        "name": "Texas",
+        "abbreviation": "TX",
+        "capitalCity": "Austin",
+        "largestCity": "Houston",
+        "population": 29145505,
+        "area": 268596.46,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/The_Great_Seal_of_the_State_of_Texas.svg"
+    },
+    {
+        "name": "Florida",
+        "abbreviation": "FL",
+        "capitalCity": "Tallahassee",
+        "largestCity": "Jacksonville",
+        "population": 21538187,
+        "area": 65757.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Seal_of_Florida.svg"
+    },
+    {
+        "name": "New York",
+        "abbreviation": "NY",
+        "capitalCity": "Albany",
+        "largestCity": "New York City",
+        "population": 20201249,
+        "area": 54555.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Seal_of_New_York.svg"
+    },
+    {
+        "name": "Pennsylvania",
+        "abbreviation": "PA",
+        "capitalCity": "Harrisburg",
+        "largestCity": "Philadelphia",
+        "population": 13002700,
+        "area": 46054.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/Seal_of_Pennsylvania.svg"
+    },
+    {
+        "name": "Illinois",
+        "abbreviation": "IL",
+        "capitalCity": "Springfield",
+        "largestCity": "Chicago",
+        "population": 12812508,
+        "area": 57914.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Seal_of_Illinois.svg"
+    },
+    {
+        "name": "Ohio",
+        "abbreviation": "OH",
+        "capitalCity": "Columbus",
+        "largestCity": "Columbus",
+        "population": 11799448,
+        "area": 44826.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Seal_of_Ohio.svg"
+    },
+    {
+        "name": "Georgia",
+        "abbreviation": "GA",
+        "capitalCity": "Atlanta",
+        "largestCity": "Atlanta",
+        "population": 10711908,
+        "area": 59425.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Georgia.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/5/59/Seal_of_Georgia.svg"
+    },
+    {
+        "name": "North Carolina",
+        "abbreviation": "NC",
+        "capitalCity": "Raleigh",
+        "largestCity": "Charlotte",
+        "population": 10439388,
+        "area": 53819.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Seal_of_North_Carolina.svg"
+    },
+    {
+        "name": "Michigan",
+        "abbreviation": "MI",
+        "capitalCity": "Lansing",
+        "largestCity": "Detroit",
+        "population": 10077331,
+        "area": 96714.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Seal_of_Michigan.svg"
+    },
+    {
+        "name": "New Jersey",
+        "abbreviation": "NJ",
+        "capitalCity": "Trenton",
+        "largestCity": "Newark",
+        "population": 9288994,
+        "area": 8723.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Seal_of_New_Jersey.svg"
+    },
+    {
+        "name": "Virginia",
+        "abbreviation": "VA",
+        "capitalCity": "Richmond",
+        "largestCity": "Virginia Beach",
+        "population": 8631393,
+        "area": 42774.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_Virginia.svg"
+    },
+    {
+        "name": "Washington",
+        "abbreviation": "WA",
+        "capitalCity": "Olympia",
+        "largestCity": "Seattle",
+        "population": 7693612,
+        "area": 71298.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Washington.svg"
+    },
+    {
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "capitalCity": "Phoenix",
+        "largestCity": "Phoenix",
+        "population": 7151502,
+        "area": 113990.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Seal_of_Arizona.svg"
+    },
+    {
+        "name": "Massachusetts",
+        "abbreviation": "MA",
+        "capitalCity": "Boston",
+        "largestCity": "Boston",
+        "population": 7029917,
+        "area": 10554.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Seal_of_Massachusetts.svg"
+    },
+    {
+        "name": "Tennessee",
+        "abbreviation": "TN",
+        "capitalCity": "Nashville",
+        "largestCity": "Nashville",
+        "population": 6910840,
+        "area": 42144.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Seal_of_Tennessee.svg"
+    },
+    {
+        "name": "Indiana",
+        "abbreviation": "IN",
+        "capitalCity": "Indianapolis",
+        "largestCity": "Indianapolis",
+        "population": 6785528,
+        "area": 36420.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Seal_of_Indiana.svg"
+    },
+    {
+        "name": "Missouri",
+        "abbreviation": "MO",
+        "capitalCity": "Jefferson City",
+        "largestCity": "Kansas City",
+        "population": 6154913,
+        "area": 69707.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Seal_of_Missouri.svg"
+    },
+    {
+        "name": "Maryland",
+        "abbreviation": "MD",
+        "capitalCity": "Annapolis",
+        "largestCity": "Baltimore",
+        "population": 6177224,
+        "area": 12406.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Seal_of_Maryland.svg"
+    },
+    {
+        "name": "Wisconsin",
+        "abbreviation": "WI",
+        "capitalCity": "Madison",
+        "largestCity": "Milwaukee",
+        "population": 5893718,
+        "area": 65496.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Seal_of_Wisconsin.svg"
+    },
+    {
+        "name": "Colorado",
+        "abbreviation": "CO",
+        "capitalCity": "Denver",
+        "largestCity": "Denver",
+        "population": 5773714,
+        "area": 104094.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Seal_of_Colorado.svg"
+    },
+    {
+        "name": "Minnesota",
+        "abbreviation": "MN",
+        "capitalCity": "Saint Paul",
+        "largestCity": "Minneapolis",
+        "population": 5706494,
+        "area": 86936.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/8/84/Seal_of_Minnesota.svg"
+    },
+    {
+        "name": "South Carolina",
+        "abbreviation": "SC",
+        "capitalCity": "Columbia",
+        "largestCity": "Charleston",
+        "population": 5118425,
+        "area": 32020.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_Carolina.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Seal_of_South_Carolina.svg"
+    },
+    {
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "capitalCity": "Montgomery",
+        "largestCity": "Birmingham",
+        "population": 5024279,
+        "area": 52420.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Seal_of_Alabama.svg"
+    },
+    {
+        "name": "Louisiana",
+        "abbreviation": "LA",
+        "capitalCity": "Baton Rouge",
+        "largestCity": "New Orleans",
+        "population": 4657757,
+        "area": 52378.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Seal_of_Louisiana.svg"
+    },
+    {
+        "name": "Kentucky",
+        "abbreviation": "KY",
+        "capitalCity": "Frankfort",
+        "largestCity": "Louisville",
+        "population": 4505836,
+        "area": 40408.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Seal_of_Kentucky.svg"
+    },
+    {
+        "name": "Oregon",
+        "abbreviation": "OR",
+        "capitalCity": "Salem",
+        "largestCity": "Portland",
+        "population": 4237256,
+        "area": 98379.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seal_of_Oregon.svg"
+    },
+    {
+        "name": "Oklahoma",
+        "abbreviation": "OK",
+        "capitalCity": "Oklahoma City",
+        "largestCity": "Oklahoma City",
+        "population": 3959353,
+        "area": 69899.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Seal_of_Oklahoma.svg"
+    },
+    {
+        "name": "Connecticut",
+        "abbreviation": "CT",
+        "capitalCity": "Hartford",
+        "largestCity": "Bridgeport",
+        "population": 3605944,
+        "area": 5543.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_Connecticut.svg"
+    },
+    {
+        "name": "Utah",
+        "abbreviation": "UT",
+        "capitalCity": "Salt Lake City",
+        "largestCity": "Salt Lake City",
+        "population": 3271616,
+        "area": 84897.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Utah.svg"
+    },
+    {
+        "name": "Iowa",
+        "abbreviation": "IA",
+        "capitalCity": "Des Moines",
+        "largestCity": "Des Moines",
+        "population": 3190369,
+        "area": 56273.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Seal_of_Iowa.svg"
+    },
+    {
+        "name": "Nevada",
+        "abbreviation": "NV",
+        "capitalCity": "Carson City",
+        "largestCity": "Las Vegas",
+        "population": 3104614,
+        "area": 110572.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Seal_of_Nevada.svg"
+    },
+    {
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "capitalCity": "Little Rock",
+        "largestCity": "Little Rock",
+        "population": 3011524,
+        "area": 53179.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/Seal_of_Arkansas.svg"
+    },
+    {
+        "name": "Mississippi",
+        "abbreviation": "MS",
+        "capitalCity": "Jackson",
+        "largestCity": "Jackson",
+        "population": 2961279,
+        "area": 48432.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Seal_of_Mississippi.svg"
+    },
+    {
+        "name": "Kansas",
+        "abbreviation": "KS",
+        "capitalCity": "Topeka",
+        "largestCity": "Wichita",
+        "population": 2937880,
+        "area": 82278.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Seal_of_Kansas.svg"
+    },
+    {
+        "name": "New Mexico",
+        "abbreviation": "NM",
+        "capitalCity": "Santa Fe",
+        "largestCity": "Albuquerque",
+        "population": 2117522,
+        "area": 121590.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Seal_of_New_Mexico.svg"
+    },
+    {
+        "name": "Nebraska",
+        "abbreviation": "NE",
+        "capitalCity": "Lincoln",
+        "largestCity": "Omaha",
+        "population": 1961504,
+        "area": 77348.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/2/24/Seal_of_Nebraska.svg"
+    },
+    {
+        "name": "Idaho",
+        "abbreviation": "ID",
+        "capitalCity": "Boise",
+        "largestCity": "Boise",
+        "population": 1839106,
+        "area": 83569.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Seal_of_Idaho.svg"
+    },
+    {
+        "name": "West Virginia",
+        "abbreviation": "WV",
+        "capitalCity": "Charleston",
+        "largestCity": "Charleston",
+        "population": 1793716,
+        "area": 24230.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Seal_of_West_Virginia.svg"
+    },
+    {
+        "name": "Hawaii",
+        "abbreviation": "HI",
+        "capitalCity": "Honolulu",
+        "largestCity": "Honolulu",
+        "population": 1455271,
+        "area": 10931.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Seal_of_Hawaii.svg"
+    },
+    {
+        "name": "New Hampshire",
+        "abbreviation": "NH",
+        "capitalCity": "Concord",
+        "largestCity": "Manchester",
+        "population": 1377529,
+        "area": 9349.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_New_Hampshire.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/6/69/Seal_of_New_Hampshire.svg"
+    },
+    {
+        "name": "Maine",
+        "abbreviation": "ME",
+        "capitalCity": "Augusta",
+        "largestCity": "Portland",
+        "population": 1362359,
+        "area": 35380.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Maine.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Seal_of_Maine.svg"
+    },
+    {
+        "name": "Montana",
+        "abbreviation": "MT",
+        "capitalCity": "Helena",
+        "largestCity": "Billings",
+        "population": 1084225,
+        "area": 147040.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Seal_of_Montana.svg"
+    },
+    {
+        "name": "Rhode Island",
+        "abbreviation": "RI",
+        "capitalCity": "Providence",
+        "largestCity": "Providence",
+        "population": 1097379,
+        "area": 1214.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Seal_of_Rhode_Island.svg"
+    },
+    {
+        "name": "Delaware",
+        "abbreviation": "DE",
+        "capitalCity": "Dover",
+        "largestCity": "Wilmington",
+        "population": 989948,
+        "area": 2489.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Seal_of_Delaware.svg"
+    },
+    {
+        "name": "South Dakota",
+        "abbreviation": "SD",
+        "capitalCity": "Pierre",
+        "largestCity": "Sioux Falls",
+        "population": 886667,
+        "area": 77116.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Seal_of_South_Dakota.svg"
+    },
+    {
+        "name": "North Dakota",
+        "abbreviation": "ND",
+        "capitalCity": "Bismarck",
+        "largestCity": "Fargo",
+        "population": 779094,
+        "area": 70698.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/1/16/Seal_of_North_Dakota.svg"
+    },
+    {
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "capitalCity": "Juneau",
+        "largestCity": "Anchorage",
+        "population": 733391,
+        "area": 665384.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Seal_of_Alaska.svg"
+    },
+    {
+        "name": "Vermont",
+        "abbreviation": "VT",
+        "capitalCity": "Montpelier",
+        "largestCity": "Burlington",
+        "population": 643077,
+        "area": 9616.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Seal_of_Vermont.svg"
+    },
+    {
+        "name": "Wyoming",
+        "abbreviation": "WY",
+        "capitalCity": "Cheyenne",
+        "largestCity": "Cheyenne",
+        "population": 576851,
+        "area": 97813.0,
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg",
+        "sealURL": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_of_Wyoming.svg"
+    }
+]
