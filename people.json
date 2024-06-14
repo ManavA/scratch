@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Manav",
+        "location": "Fremont, CA",
+        "about": "A passionate developer with a love for creating useful apps.",
+        "favoriteFood": "Pizza",
+        "photoURL": "https://raw.githubusercontent.com/ManavA/scratch/main/manav.jpg"
+    },
+    {
+        "name": "Hana",
+        "location": "Fremont, CA",
+        "about": "Bark.",
+        "favoriteFood": "Sushi",
+        "photoURL": "https://raw.githubusercontent.com/ManavA/scratch/main/hana.jpg"
+    }
+]
